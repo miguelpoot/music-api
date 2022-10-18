@@ -28,22 +28,23 @@
 
 
 
-   <!--  
+   
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
 		</dependency>
 		 
-		   -->
+		  
 		
-		
+		<!--
+		error video 6 xd
 		   <dependency>
 		 <groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.47</version>
 		 </dependency>
-		   
+		   -->
 		 
 		 
 		<dependency>
